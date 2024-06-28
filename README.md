@@ -40,4 +40,5 @@ Contribute technical expertise and business acumen in a challenging role within 
 - **Email:** [jamaludeen.pro@gmail.com](mailto:jamaludeen.pro@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jamal-udeen](https://www.linkedin.com/in/jamal-udeen)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamaludeen-college&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaludeen-college&layout=compact&theme=radical)
